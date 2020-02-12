@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mahendra0859/dynamic-table-react/static/css/main.0e67b265.chunk.css",
-    "main.js": "/mahendra0859/dynamic-table-react/static/js/main.0dcae983.chunk.js",
-    "main.js.map": "/mahendra0859/dynamic-table-react/static/js/main.0dcae983.chunk.js.map",
-    "runtime-main.js": "/mahendra0859/dynamic-table-react/static/js/runtime-main.ed8e5764.js",
-    "runtime-main.js.map": "/mahendra0859/dynamic-table-react/static/js/runtime-main.ed8e5764.js.map",
-    "static/js/2.a2f93380.chunk.js": "/mahendra0859/dynamic-table-react/static/js/2.a2f93380.chunk.js",
-    "static/js/2.a2f93380.chunk.js.map": "/mahendra0859/dynamic-table-react/static/js/2.a2f93380.chunk.js.map",
-    "index.html": "/mahendra0859/dynamic-table-react/index.html",
-    "precache-manifest.c1eeacf6e1d3812b0cdee13af8ccb4bd.js": "/mahendra0859/dynamic-table-react/precache-manifest.c1eeacf6e1d3812b0cdee13af8ccb4bd.js",
-    "service-worker.js": "/mahendra0859/dynamic-table-react/service-worker.js",
-    "static/css/main.0e67b265.chunk.css.map": "/mahendra0859/dynamic-table-react/static/css/main.0e67b265.chunk.css.map",
-    "static/js/2.a2f93380.chunk.js.LICENSE.txt": "/mahendra0859/dynamic-table-react/static/js/2.a2f93380.chunk.js.LICENSE.txt"
+    "main.css": "/mahendra0859/dynamic-table-react.git/static/css/main.0e67b265.chunk.css",
+    "main.js": "/mahendra0859/dynamic-table-react.git/static/js/main.0dcae983.chunk.js",
+    "main.js.map": "/mahendra0859/dynamic-table-react.git/static/js/main.0dcae983.chunk.js.map",
+    "runtime-main.js": "/mahendra0859/dynamic-table-react.git/static/js/runtime-main.f398bfe1.js",
+    "runtime-main.js.map": "/mahendra0859/dynamic-table-react.git/static/js/runtime-main.f398bfe1.js.map",
+    "static/js/2.a2f93380.chunk.js": "/mahendra0859/dynamic-table-react.git/static/js/2.a2f93380.chunk.js",
+    "static/js/2.a2f93380.chunk.js.map": "/mahendra0859/dynamic-table-react.git/static/js/2.a2f93380.chunk.js.map",
+    "index.html": "/mahendra0859/dynamic-table-react.git/index.html",
+    "precache-manifest.dfc94f1d4e2bf64b9c6cc9260c101993.js": "/mahendra0859/dynamic-table-react.git/precache-manifest.dfc94f1d4e2bf64b9c6cc9260c101993.js",
+    "service-worker.js": "/mahendra0859/dynamic-table-react.git/service-worker.js",
+    "static/css/main.0e67b265.chunk.css.map": "/mahendra0859/dynamic-table-react.git/static/css/main.0e67b265.chunk.css.map",
+    "static/js/2.a2f93380.chunk.js.LICENSE.txt": "/mahendra0859/dynamic-table-react.git/static/js/2.a2f93380.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed8e5764.js",
+    "static/js/runtime-main.f398bfe1.js",
     "static/js/2.a2f93380.chunk.js",
     "static/css/main.0e67b265.chunk.css",
     "static/js/main.0dcae983.chunk.js"
